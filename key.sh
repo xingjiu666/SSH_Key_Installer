@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #=============================================================
-# https://github.com/P3TERX/SSH_Key_Installer
-# Description: Install SSH keys via GitHub, URL or local files
-# Version: 2.7
-# Author: P3TERX
-# Blog: https://p3terx.com
+# https://github.com/xingjiu666/SSH_Key_Installer
+# Description: Install SSH keys via GitHub, URL or local files.With some little update.
+# Version: 1.0.0
+# Author: xingjiu
+# Blog: https://www.imhe.cc
 #=============================================================
 
-VERSION=2.7
+VERSION=1.0.0
 RED_FONT_PREFIX="\033[31m"
 LIGHT_GREEN_FONT_PREFIX="\033[1;32m"
 FONT_COLOR_SUFFIX="\033[0m"

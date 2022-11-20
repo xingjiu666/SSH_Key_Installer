@@ -2,12 +2,12 @@
 
 Install SSH keys via GitHub, URL or local files.With some little update.
 
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/ssh-key-installer.html)
+[Read the details in my blog (in Chinese) | 中文教程](https://www.imhe.cc/)
 
 ## Usage
 
 ```
-bash <(curl -fsSL git.io/key.sh) [options...] <arg>
+bash <(curl -fsSL https://raw.githubusercontent.com/xingjiu666/SSH_Key_Installer/master/key.sh) [options...] <arg>
 ```
 
 ## Options
